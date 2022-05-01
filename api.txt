@@ -1,0 +1,4 @@
+63Z0YWDRRE4A42JS alphavantage key
+https://www.alphavantage.co/documentation/
+https://stackoverflow.com/questions/9093684/how-to-print-particular-json-value-in-python
+https://github.com/prediqtiv/alpha-vantage-cookbook
